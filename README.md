@@ -39,4 +39,4 @@ This project is licensed under the MIT License.
 # Acknowledgements
 We would like to acknowledge the authors of the original GPF-GAN and Stable Diffusion papers, whose work has inspired this project. We also thank the contributors to the open-source libraries used in this project.
 
-Thank you this website for sharing their experince and time with us: [https://rememorie.com/photo-restoration-service/](Photo Restoration Service)
+Thank you this website for sharing their experince and time with us: [https://rememorie.com/photo-restoration-service/] (Photo Restoration Service)
